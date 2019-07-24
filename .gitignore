@@ -1,0 +1,14 @@
+/Src/StoreManageServer/.vs
+/Src/StoreManageServer/WebServer/bin
+/Src/StoreManageServer/WebServer/obj
+/Src/StoreManageServer/WebServer/logs
+/Src/StoreManageServer/Infrastructure/bin
+/Src/StoreManageServer/Infrastructure/obj
+/Src/StoreManageServer/Model/bin
+/Src/StoreManageServer/Model/obj
+/Src/StoreManageServer/Application/bin
+/Src/StoreManageServer/Application/obj
+/Src/StoreManageServer/IRepository/bin
+/Src/StoreManageServer/IRepository/obj
+/Src/StoreManageServer/Repository/bin
+/Src/StoreManageServer/Repository/obj
